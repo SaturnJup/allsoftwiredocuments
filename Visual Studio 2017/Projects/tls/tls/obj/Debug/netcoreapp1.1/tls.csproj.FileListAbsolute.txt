@@ -1,0 +1,5 @@
+c:\users\we\documents\visual studio 2017\Projects\tls\tls\bin\Debug\netcoreapp1.1\tls.deps.json
+c:\users\we\documents\visual studio 2017\Projects\tls\tls\bin\Debug\netcoreapp1.1\tls.runtimeconfig.json
+c:\users\we\documents\visual studio 2017\Projects\tls\tls\bin\Debug\netcoreapp1.1\tls.runtimeconfig.dev.json
+c:\users\we\documents\visual studio 2017\Projects\tls\tls\obj\Debug\netcoreapp1.1\tls.csprojResolveAssemblyReference.cache
+c:\users\we\documents\visual studio 2017\Projects\tls\tls\obj\Debug\netcoreapp1.1\tls.AssemblyInfo.cs
